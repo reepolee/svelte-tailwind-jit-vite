@@ -1,5 +1,7 @@
 {
   "name": "sv-twjit",
+  "description": "Quickly scaffold a Svelte App with Just-in-time TailwindCSS compiler on Vite.",
+  "author": "Ales Vaupotic <ales@reepolee.com>",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
