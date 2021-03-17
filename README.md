@@ -11,6 +11,8 @@ npm i
 npm run dev -- --open
 ```
 
+Enjoy the finest developer experience possible.
+
 # Credits
 
 [Svelte](https://www.svelte.dev)  
